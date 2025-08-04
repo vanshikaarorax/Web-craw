@@ -1,13 +1,12 @@
-# app.py
-
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import traceback
+import os
 
-from light_runner import analyze_website  # updated to use MongoDB logic
+from light_runner import analyze_website  # uses MongoDB logic
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS
+CORS(app)
 
 @app.route('/')
 def home():
@@ -37,5 +36,6 @@ def analyze():
         }), 500
 
 if __name__ == '__main__':
-    print("🚀 Flask server is starting on http://127.0.0.1:5000")
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    print(f"🚀 Flask server is starting on http://127.0.0.1:{port}")
+    app.run(debug=False, host='0.0.0.0', port=port)
