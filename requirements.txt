@@ -1,0 +1,10 @@
+aiohttp
+beautifulsoup4
+requests
+openai
+python-dotenv
+tqdm
+anthropic
+pymongo
+flask
+flask-cors
