@@ -1,0 +1,2298 @@
+[
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":701,
+        "Sub_Category":"Postage Transaction Charge",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":822,
+        "Sub_Category":"Seeds",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":823,
+        "Sub_Category":"Farm Equipment",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":824,
+        "Sub_Category":"Agricultural Machinery",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":742,
+        "Sub_Category":"Veterinary services",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":763,
+        "Sub_Category":"Agricultural co-operatives",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":780,
+        "Sub_Category":"Landscaping and horticultural services",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":820,
+        "Sub_Category":"Fertilizer Dealers",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":825,
+        "Sub_Category":"Other Agri Inputs",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":743,
+        "Sub_Category":"Wine Producers",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":744,
+        "Sub_Category":"Champagne Producers",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Agricultural\nServices",
+        "MCC_Code":821,
+        "Sub_Category":"Pesticides \/ Insecticides",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Airlines",
+        "MCC_Code":3020,
+        "Sub_Category":"Air India",
+        "Risk_Level":"Low",
+        "Risk_Score":1
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7332,
+        "Sub_Category":"Blueprinting and Photocopying Services",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7333,
+        "Sub_Category":"Commercial photography, art and graphics",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7338,
+        "Sub_Category":"Quick copy, reproduction and blueprinting services",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7339,
+        "Sub_Category":"Stenographic and secretarial support services",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7392,
+        "Sub_Category":"Management, consulting and public relations\nservices",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7394,
+        "Sub_Category":"Equipment, tool, furniture and appliance rentals and\nleasing",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7395,
+        "Sub_Category":"Photofinishing laboratories and photo developing",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7523,
+        "Sub_Category":"Parking lots and garages",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7524,
+        "Sub_Category":"Express Payment Services - Parking\/Garage",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7531,
+        "Sub_Category":"Automotive body repair shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7534,
+        "Sub_Category":"Tyre retreading and repair shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7535,
+        "Sub_Category":"Automotive paint shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7622,
+        "Sub_Category":"Electronics repair shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7623,
+        "Sub_Category":"Air conditioning and refrigeration repair shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7629,
+        "Sub_Category":"Electrical and small appliance repair shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7631,
+        "Sub_Category":"Watch, clock and jewellery repair shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7699,
+        "Sub_Category":"Repair Shops And Related Services -- Miscellaneous",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7829,
+        "Sub_Category":"Motion picture and video tape production and\ndistribution",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7832,
+        "Sub_Category":"Motion picture theatres",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7372,
+        "Sub_Category":"Computer programming, data processing and\nintegrated systems design services",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7379,
+        "Sub_Category":"Computer maintenance and repair services not\nelsewhere classified",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7407,
+        "Sub_Category":"Person To Person Merchants",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7512,
+        "Sub_Category":"Automobile rentals",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7513,
+        "Sub_Category":"Truck and utility trailer rentals",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7519,
+        "Sub_Category":"Motor home and recreational vehicle rentals",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7311,
+        "Sub_Category":"Advertising services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7321,
+        "Sub_Category":"Consumer credit reporting agencies",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7341,
+        "Sub_Category":"Window Cleaning Services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7342,
+        "Sub_Category":"Exterminating and disinfecting services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7349,
+        "Sub_Category":"Cleaning, maintenance and janitorial services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7361,
+        "Sub_Category":"Employment agencies and temporary help services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7375,
+        "Sub_Category":"Information retrieval services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7393,
+        "Sub_Category":"Detective agencies, protective agencies and security\nservices, including armoured cars and guard dogs",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7399,
+        "Sub_Category":"Business Services Not Elsewhere Classified",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7538,
+        "Sub_Category":"Automotive service shops (non-dealer)",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7542,
+        "Sub_Category":"Car washes",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7549,
+        "Sub_Category":"Towing services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7641,
+        "Sub_Category":"Furniture reupholstery, repair and refinishing",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7692,
+        "Sub_Category":"Welding services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7841,
+        "Sub_Category":"Video tape rentals",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7511,
+        "Sub_Category":"Truck Stop",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7833,
+        "Sub_Category":"Express Payment Services - Motion Picture",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7911,
+        "Sub_Category":"Dance halls, studios and schools",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7922,
+        "Sub_Category":"Theatrical producers (except motion pictures) and\nticket agencies",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7929,
+        "Sub_Category":"Bands, orchestras and miscellaneous entertainers not\nelsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7932,
+        "Sub_Category":"Billiard and pool establishments",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7933,
+        "Sub_Category":"Bowling alleys",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7941,
+        "Sub_Category":"Commercial sports, professional sports clubs,\nathletic fields and sports promoters",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7991,
+        "Sub_Category":"Tourist attractions and exhibits",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7992,
+        "Sub_Category":"Public golf courses",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7993,
+        "Sub_Category":"Video amusement game supplies",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7994,
+        "Sub_Category":"Video game arcades and establishments",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7995,
+        "Sub_Category":"Betting, including lottery tickets, casino gaming\nchips, off-track betting and wagers at race tracks",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7996,
+        "Sub_Category":"Amusement parks, circuses, carnivals and fortune\ntellers",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7997,
+        "Sub_Category":"Membership clubs (sports, recreation, athletic),\ncountry clubs and private golf courses",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7998,
+        "Sub_Category":"Aquariums, seaquariums and dolphinariums",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7999,
+        "Sub_Category":"Recreation services not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7322,
+        "Sub_Category":"Debt Collection Agencies",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7800,
+        "Sub_Category":"Government-Owned Lotteries",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7801,
+        "Sub_Category":"Government Licensed Casinos (Online Gambling)",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Business\nServices",
+        "MCC_Code":7802,
+        "Sub_Category":"Government Licensed Horse\/Dog Racing",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5611,
+        "Sub_Category":"Mens and boys clothing and accessory shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5621,
+        "Sub_Category":"Womens ready-to-wear shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5631,
+        "Sub_Category":"Womens accessory and speciality shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5641,
+        "Sub_Category":"Childrens and infants wear shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5651,
+        "Sub_Category":"Family clothing shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5655,
+        "Sub_Category":"Sports and riding apparel shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5661,
+        "Sub_Category":"Shoe shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5691,
+        "Sub_Category":"Mens and womens clothing shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5697,
+        "Sub_Category":"Tailors, seamstresses, mending and alterations",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5699,
+        "Sub_Category":"Apparel And Accessory Shops -- Miscellaneous",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5681,
+        "Sub_Category":"Furriers and fur shops",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Clothing\nStores",
+        "MCC_Code":5698,
+        "Sub_Category":"Wig and toupee shops",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":2741,
+        "Sub_Category":"Miscellaneous Publishing And Printing",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":1520,
+        "Sub_Category":"General contractors residential and commercial",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":1711,
+        "Sub_Category":"Heating, plumbing and air-conditioning contractors",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":1731,
+        "Sub_Category":"Electrical contractors",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":1740,
+        "Sub_Category":"Insulation, Masonry, Plastering, Stonework and Tile\nSetting Contractors",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":1750,
+        "Sub_Category":"Carpentry contractors",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":1761,
+        "Sub_Category":"Roofing, siding and sheet metal work contractors",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":1771,
+        "Sub_Category":"Concrete work contractors",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":1799,
+        "Sub_Category":"Special trade contractors not elsewhere classified",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":2791,
+        "Sub_Category":"Typesetting, platemaking and related services",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Contracted\nServices",
+        "MCC_Code":2842,
+        "Sub_Category":"Speciality cleaning, polishing and sanitation\npreparations",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9399,
+        "Sub_Category":"Government services not elsewhere classified",
+        "Risk_Level":"Low",
+        "Risk_Score":1
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9402,
+        "Sub_Category":"Postal services government only",
+        "Risk_Level":"Low",
+        "Risk_Score":1
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9211,
+        "Sub_Category":"Court costs, including alimony and child support",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9222,
+        "Sub_Category":"Fines",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9223,
+        "Sub_Category":"Bail and bond payments",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9311,
+        "Sub_Category":"Tax payments",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9400,
+        "Sub_Category":"Prime Minister National Relief Fund",
+        "Risk_Level":"Low",
+        "Risk_Score":1
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9405,
+        "Sub_Category":"Intergoverment Transactions",
+        "Risk_Level":"Low",
+        "Risk_Score":1
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9700,
+        "Sub_Category":"Automated Referral Service",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9950,
+        "Sub_Category":"Intra-Company Purchases",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9401,
+        "Sub_Category":"I-Purchasing Pilot",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9411,
+        "Sub_Category":"Government Loan Payments",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9701,
+        "Sub_Category":"Visa Credential Server",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9702,
+        "Sub_Category":"Gcas Emergency Services (Visa Use Only)",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9754,
+        "Sub_Category":"Gambling-Horse, Dog Racing-St Lottery",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Government\nServices",
+        "MCC_Code":9999,
+        "Sub_Category":"Client Defined Mcc",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5719,
+        "Sub_Category":"Home Furnishing Specialty Stores -- Miscellaneous",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5941,
+        "Sub_Category":"Sporting Goods Stores",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5961,
+        "Sub_Category":"Mail Order Houses Incl Catalog Order Stores\nBook\/Record Club",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5999,
+        "Sub_Category":"Miscellaneous & Specialty Stores",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5715,
+        "Sub_Category":"Alcoholic Beverage Wholesalers",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5832,
+        "Sub_Category":"Antique Shops - Sales, Repairs, And Restoration Services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7299,
+        "Sub_Category":"Misc Personal Services Not Elsewhere Classified",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5974,
+        "Sub_Category":"Rubber Stamp Stores\/Reserved For National Use",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6760,
+        "Sub_Category":"Savings Bonds",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7280,
+        "Sub_Category":"Hospital Patient Personal Funds Withdraw",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7295,
+        "Sub_Category":"Babysitting Services",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7272,
+        "Sub_Category":"Escort Services",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5712,
+        "Sub_Category":"Furniture, home furnishings and equipment shops\nand manufacturers, except appliances",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5714,
+        "Sub_Category":"Drapery, window covering and upholstery shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5718,
+        "Sub_Category":"Fireplaces, fireplace screens and accessories shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5722,
+        "Sub_Category":"Household appliance shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5732,
+        "Sub_Category":"Electronics shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5733,
+        "Sub_Category":"Music shops musical instruments, pianos and sheet\nmusic",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5940,
+        "Sub_Category":"Bicycle shops sales and service",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5942,
+        "Sub_Category":"Bookshops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5943,
+        "Sub_Category":"Stationery, office and school supply shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5945,
+        "Sub_Category":"Hobby, toy and game shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5946,
+        "Sub_Category":"Camera and photographic supply shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5948,
+        "Sub_Category":"Luggage and leather goods shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5949,
+        "Sub_Category":"Sewing, needlework, fabric and piece goods shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5950,
+        "Sub_Category":"Glassware and crystal shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5970,
+        "Sub_Category":"Artist supply and craft shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5971,
+        "Sub_Category":"Art dealers and galleries",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5975,
+        "Sub_Category":"Hearing aids sales, service and supplies",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5976,
+        "Sub_Category":"Orthopaedic goods and prosthetic devices",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5978,
+        "Sub_Category":"Typewriter outlets sales, service and rentals",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5994,
+        "Sub_Category":"Newsagents and news-stands",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5996,
+        "Sub_Category":"Swimming pools sales, supplies and services",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5998,
+        "Sub_Category":"Tent and awning shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7217,
+        "Sub_Category":"Carpet and upholstery cleaning",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7221,
+        "Sub_Category":"Photographic studios",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7251,
+        "Sub_Category":"Shoe repair shops, shoe shine parlours and hat\ncleaning shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7276,
+        "Sub_Category":"Tax preparation services",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7296,
+        "Sub_Category":"Clothing rentals costumes, uniforms and formal\nwear",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5811,
+        "Sub_Category":"Caterers",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5912,
+        "Sub_Category":"Drug stores and pharmacies",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5992,
+        "Sub_Category":"Florists",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6513,
+        "Sub_Category":"Real Estate Agents and Managers - Rentals",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7210,
+        "Sub_Category":"Laundry, cleaning and garment services",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7211,
+        "Sub_Category":"Laundry services family and commercial",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7216,
+        "Sub_Category":"Dry cleaners",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5713,
+        "Sub_Category":"Floor covering services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5734,
+        "Sub_Category":"Computer software outlets",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5735,
+        "Sub_Category":"Record shops",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5931,
+        "Sub_Category":"Used merchandise and second-hand shops",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5932,
+        "Sub_Category":"Antique shops - sales, repairs and restoration\nservices",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5935,
+        "Sub_Category":"Wrecking and salvage yards",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5937,
+        "Sub_Category":"Antique reproduction shops",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5995,
+        "Sub_Category":"Pet shops, pet food and supplies",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7011,
+        "Sub_Category":"Lodging hotels, motels and resorts",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7277,
+        "Sub_Category":"Counselling services debt, marriage and personal",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5812,
+        "Sub_Category":"Eating places and restaurants",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5813,
+        "Sub_Category":"Drinking places (alcoholic beverages) bars, taverns,\nnight-clubs, cocktail lounges and discothques",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5814,
+        "Sub_Category":"Fast food restaurants",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5815,
+        "Sub_Category":"Digital Goods: Media, Books, Movies, Music",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5816,
+        "Sub_Category":"Digital Goods: Games",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5817,
+        "Sub_Category":"Digital Goods: Applications (Excludes Games)",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5818,
+        "Sub_Category":"Digital Goods: Large Digital Goods Merchant",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5944,
+        "Sub_Category":"Jewellery, watch, clock and silverware shops",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5947,
+        "Sub_Category":"Gift, card, novelty and souvenir shops",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5960,
+        "Sub_Category":"Direct marketing - insurance services",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5962,
+        "Sub_Category":"Telemarketing travel-related arrangement services",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5964,
+        "Sub_Category":"Direct marketing catalogue merchants",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5965,
+        "Sub_Category":"Direct marketing combination catalogue and retail\nmerchants",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5966,
+        "Sub_Category":"Direct marketing outbound telemarketing merchants",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5967,
+        "Sub_Category":"Direct marketing inbound telemarketing merchants",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5968,
+        "Sub_Category":"Direct marketing continuity\/subscription merchants",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5969,
+        "Sub_Category":"Direct marketing\/direct marketers not elsewhere\nclassified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5972,
+        "Sub_Category":"Stamp and coin shops",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5973,
+        "Sub_Category":"Religious goods and shops",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5977,
+        "Sub_Category":"Cosmetic Stores",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5983,
+        "Sub_Category":"Fuel dealers fuel oil, wood, coal and liquefied\npetroleum",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5993,
+        "Sub_Category":"Cigar shops and stands",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5997,
+        "Sub_Category":"Electric razor outlets sales and service",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6300,
+        "Sub_Category":"Insurance sales, underwriting and premiums",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7012,
+        "Sub_Category":"Timeshares",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7032,
+        "Sub_Category":"Sporting and recreational camps",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7033,
+        "Sub_Category":"Trailer parks and camp-sites",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7230,
+        "Sub_Category":"Beauty and barber shops",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7261,
+        "Sub_Category":"Funeral services and crematoriums",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7278,
+        "Sub_Category":"Buying and shopping services and clubs",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7297,
+        "Sub_Category":"Massage parlours",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7298,
+        "Sub_Category":"Health and beauty spas",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6012,
+        "Sub_Category":"Financial institutions merchandise and services",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5921,
+        "Sub_Category":"Package shops beer, wine and liquor",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5933,
+        "Sub_Category":"Pawn shops",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":5963,
+        "Sub_Category":"Door-to-door sales",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6010,
+        "Sub_Category":"Financial institutions manual cash disbursements",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6011,
+        "Sub_Category":"Financial institutions automated cash disbursements",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6051,
+        "Sub_Category":"Non-financial institutions foreign currency, money\norders (not wire transfer), scrip and travellers checks",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6211,
+        "Sub_Category":"Securities–Brokers and Dealers",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6529,
+        "Sub_Category":"LIC",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":6540,
+        "Sub_Category":"Debit card to wallet credit (Wallet top up)",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Miscellaneous\nStores",
+        "MCC_Code":7273,
+        "Sub_Category":"Dating and escort services",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8011,
+        "Sub_Category":"Doctors and physicians not elsewhere classified",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8021,
+        "Sub_Category":"Dentists and orthodontists",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8031,
+        "Sub_Category":"Osteopaths",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8042,
+        "Sub_Category":"Optometrists and ophthalmologists",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8043,
+        "Sub_Category":"Opticians, optical goods and eyeglasses",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8044,
+        "Sub_Category":"Eyeglasses Stores Or Optical Goods",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8049,
+        "Sub_Category":"Podiatrists and chiropodists",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8050,
+        "Sub_Category":"Nursing and personal care facilities",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8062,
+        "Sub_Category":"Hospitals",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8071,
+        "Sub_Category":"Medical and dental laboratories",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8220,
+        "Sub_Category":"Colleges, universities, professional schools and\njunior colleges",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8244,
+        "Sub_Category":"Business and secretarial schools",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8041,
+        "Sub_Category":"Chiropractors",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8211,
+        "Sub_Category":"Elementary and secondary schools",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8241,
+        "Sub_Category":"Correspondence schools",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8249,
+        "Sub_Category":"Trade and vocational schools",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8641,
+        "Sub_Category":"Civic, social and fraternal associations",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8911,
+        "Sub_Category":"Architectural, engineering and surveying services",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8931,
+        "Sub_Category":"Accounting, auditing and book keeping services",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8111,
+        "Sub_Category":"Legal services and attorneys",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8099,
+        "Sub_Category":"Medical services and health practitioners not\nelsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8299,
+        "Sub_Category":"Schools and educational services not elsewhere\nclassified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8351,
+        "Sub_Category":"Child care services",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8398,
+        "Sub_Category":"Charitable and social service organizations",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8651,
+        "Sub_Category":"Political organizations",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8661,
+        "Sub_Category":"Religious organizations",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8675,
+        "Sub_Category":"Automobile associations",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8699,
+        "Sub_Category":"Membership organization not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8734,
+        "Sub_Category":"Testing laboratories (non-medical)",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Professional\nServices",
+        "MCC_Code":8999,
+        "Sub_Category":"Professional services not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5047,
+        "Sub_Category":"Dental\/laboratory\/medical\/ophthalmic hospital\nequipment and supplies",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5065,
+        "Sub_Category":"Electrical parts and equipment",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5072,
+        "Sub_Category":"Hardware equipment and supplies",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5074,
+        "Sub_Category":"Plumbing and heating equipment and supplies",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5111,
+        "Sub_Category":"Stationery, office supplies and printing and writing\npaper",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5137,
+        "Sub_Category":"Mens, womens and childrens uniforms and\ncommercial clothing",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5139,
+        "Sub_Category":"Commercial footwear",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5192,
+        "Sub_Category":"Books, periodicals and newspapers",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5193,
+        "Sub_Category":"Florists supplies, nursery stock and flowers",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5200,
+        "Sub_Category":"Home supply warehouse outlets",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5211,
+        "Sub_Category":"Lumber and building materials outlets",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5231,
+        "Sub_Category":"Glass, paint and wallpaper shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5251,
+        "Sub_Category":"Hardware shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5261,
+        "Sub_Category":"Lawn and garden supply outlets, including nurseries",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5300,
+        "Sub_Category":"Wholesale clubs",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5311,
+        "Sub_Category":"Department stores",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5331,
+        "Sub_Category":"Variety stores",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5411,
+        "Sub_Category":"Groceries and supermarkets",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5441,
+        "Sub_Category":"Candy, nut and confectionery shops",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5451,
+        "Sub_Category":"Dairies",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5462,
+        "Sub_Category":"Bakeries",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5021,
+        "Sub_Category":"Office and commercial furniture",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5044,
+        "Sub_Category":"Office, photographic, photocopy and microfilm\nequipment",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5051,
+        "Sub_Category":"Metal service centres and offices",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5131,
+        "Sub_Category":"Piece goods, notions and other dry goods",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5271,
+        "Sub_Category":"Mobile home dealers",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5422,
+        "Sub_Category":"Freezer and locker meat provisioners",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5013,
+        "Sub_Category":"Motor vehicle supplies and new parts",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5198,
+        "Sub_Category":"Paints, varnishes and supplies",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5039,
+        "Sub_Category":"Construction materials not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5045,
+        "Sub_Category":"Computers, computer peripheral equipment not\nelsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5046,
+        "Sub_Category":"Commercial equipment not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5085,
+        "Sub_Category":"Industrial supplies not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5094,
+        "Sub_Category":"Precious stones and metals, watches and jewellery",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5099,
+        "Sub_Category":"Durable goods not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5122,
+        "Sub_Category":"Drugs, Drug Proprietors and Druggists Sundries",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5169,
+        "Sub_Category":"Chemicals and allied products not elsewhere\nclassified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5172,
+        "Sub_Category":"Petroleum and petroleum products",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5199,
+        "Sub_Category":"Non-durable goods not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5309,
+        "Sub_Category":"Duty-free shops",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5310,
+        "Sub_Category":"Discount shops",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5511,
+        "Sub_Category":"Car and truck dealers (new and used) sales, services,\nrepairs, parts and leasing",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5521,
+        "Sub_Category":"Car and truck dealers (used only) sales, service,\nrepairs, parts and leasing",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5532,
+        "Sub_Category":"Automotive tyre outlets",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5533,
+        "Sub_Category":"Automotive parts and accessories outlets",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5541,
+        "Sub_Category":"Service stations (with or without ancillary services)",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5542,
+        "Sub_Category":"Automated fuel dispensers",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5551,
+        "Sub_Category":"Boat dealers",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5561,
+        "Sub_Category":"Camper, recreational and utility trailer dealers",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5571,
+        "Sub_Category":"Motorcycle shops and dealers",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5592,
+        "Sub_Category":"Motor home dealers",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5598,
+        "Sub_Category":"Snowmobile dealers",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5399,
+        "Sub_Category":"General Merchandise Or Convenience Food Stores",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5499,
+        "Sub_Category":"Misc Food Stores - Specialty Markets & Convenience",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5262,
+        "Sub_Category":"Online Marketplaces",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5299,
+        "Sub_Category":"Warehouse Club Gas",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5413,
+        "Sub_Category":"Credit Card Bill Payments",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5531,
+        "Sub_Category":"Auto And Home Supply Outlets",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Retail Outlet\nServices",
+        "MCC_Code":5599,
+        "Sub_Category":"Automotive Dealers",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4011,
+        "Sub_Category":"Railroads–Freight",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4111,
+        "Sub_Category":"Local and suburban commuter passenger\ntransportation, including ferries",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4112,
+        "Sub_Category":"Passenger Railways",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4131,
+        "Sub_Category":"Bus Lines",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4214,
+        "Sub_Category":"Motor freight carriers and trucking local and long\ndistance, moving and storage companies and local\ndelivery",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4225,
+        "Sub_Category":"Public Warehousing–Farm Products, Refrigerated\nGoods, Household Goods Storage",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4761,
+        "Sub_Category":"Transportation\/Travel-Related Arrangement",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4119,
+        "Sub_Category":"Ambulance Services",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4121,
+        "Sub_Category":"Taxicabs and Limousines",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4215,
+        "Sub_Category":"Courier services air and ground and freight\nforwarders",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4411,
+        "Sub_Category":"Steamships and cruise lines",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4457,
+        "Sub_Category":"Boat rentals and leasing",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4468,
+        "Sub_Category":"Marinas, marine service and supplies",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4511,
+        "Sub_Category":"Airlines and air carriers",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4582,
+        "Sub_Category":"Airports, flying fields and airport terminals",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4722,
+        "Sub_Category":"Travel agencies and tour operators",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4784,
+        "Sub_Category":"Tolls and bridge fees",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Transportation\nServices",
+        "MCC_Code":4789,
+        "Sub_Category":"Transportation services not elsewhere classified",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4815,
+        "Sub_Category":"Monthly Summary Telephone Charges",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4816,
+        "Sub_Category":"Computer network\/information services",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4821,
+        "Sub_Category":"Telegraph Services",
+        "Risk_Level":"Low",
+        "Risk_Score":2
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4900,
+        "Sub_Category":"Utilities electric, gas, water and sanitary",
+        "Risk_Level":"Med",
+        "Risk_Score":3
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4812,
+        "Sub_Category":"Telecommunication equipment and telephone sales",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4814,
+        "Sub_Category":"Telecommunication services, including local and\nlong distance calls, credit card calls, calls through\nuse of magne",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4899,
+        "Sub_Category":"Cable and other pay television services",
+        "Risk_Level":"Med",
+        "Risk_Score":4
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4813,
+        "Sub_Category":"Key-Entered Telecom Merchant",
+        "Risk_Level":"High",
+        "Risk_Score":5
+    },
+    {
+        "Category":"Utility Services",
+        "MCC_Code":4829,
+        "Sub_Category":"Wire transfers and money orders",
+        "Risk_Level":"Prohibited",
+        "Risk_Score":6
+    }
+]
