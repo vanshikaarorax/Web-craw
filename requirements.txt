@@ -8,3 +8,4 @@ anthropic
 pymongo
 flask
 flask-cors
+gunicorn
